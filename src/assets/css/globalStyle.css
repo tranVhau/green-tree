@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Maven+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #2c2c2c;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  background-color: #fafafa !important;
+}
+
+.custom-container {
+  max-width: 1328px !important;
+  margin: 0 auto;
+}
+
+.custom-text-title {
+  color: var(--Hover, #063);
+  font-family: Maven Pro;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+}
+
+.custom-text-content {
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.custom-discover-btn {
+  margin: 24px 0;
+  font-family: Inter;
+  height: 40px;
+  padding: 9px 16px;
+  border-radius: 40px;
+  border: 1.5px solid var(--neutral-10, #fafafa);
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.custom-discover-btn:hover {
+  background: var(--Hover, #063);
+  border: 1.5px solid var(--Hover, #063);
+}

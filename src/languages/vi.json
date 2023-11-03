@@ -1,0 +1,32 @@
+{
+  "header-section": {
+    "home": "trang chủ",
+    "web-version": "phiên bản web",
+    "feature": "tính năng",
+    "guideline": "hướng dẫn",
+    "gallery": "thư viện",
+    "contact": "liên hệ"
+  },
+  "banner-section": {
+    "banner_1": "số hóa cây xanh cần thơ",
+    "banner_2": "Chào mừng bạn đến với trải nghiệm nền tảng quản lý cây xanh vì sứ mệnh xanh",
+    "banner_3": "trải nghiệm ngay",
+    "banner_4": "khám phá khoa học quản lý cây",
+    "banner_5": "không đơn thuần chỉ là một nền tảng, mà còn là người bạn đồng hành trong việc chăm sóc và duy trì vẻ đẹp sự sống xanh bền vững của cây. Đằng sau giao diện tinh tế, bạn có tất cả những bí kíp, thông tin, nguồn tài liệu từ chuyên gia để nuôi dưỡng và chăm sóc cây cối khỏe mạnh."
+  },
+  "content-section": {
+    "content_1": "số hóa cây xanh",
+    "content_2": "Tạo dựng cơ sở dữ liệu như một thư viện trí tuệ, lưu giữ hành trình tuyệt diệu của các cây xanh trong môi trường đô thị. Bắt đầu từ tên gọi đến sự phát triển mạnh mẽ, bao gồm đường kính, chiều cao, thời gian trồng và tuổi thọ – còn nhiều thông tin chi tiết khác rõ ràng, minh bạch, đó là câu chuyện kể về lịch sử của mỗi cây xanh. Tận dụng GIS - hệ thống thông tin địa lý, dữ liệu trở nên sống động, để lại dấu ấn của thời gian trên từng đường viền xanh của đô thị.",
+    "content_3": "cơ sở dữ liệu được cập nhật liên tục, chính xác và chi tiết, giúp việc quản lý và theo dõi cây xanh trở nên dễ dàng hơn bao giờ hết",
+    "content_4": "những tính năng nổi bật",
+    "content_5": "Cam kết và nỗ lực vì một thế giới xanh trong kỷ nguyên số hóa hạ tầng bằng việc mang đến cho bạn hệ thống tính năng vượt trội"
+  },
+  "content-carousel": {
+    "carousel_1_header": "Thống kê theo dõi mật độ cây xanh",
+    "carousel_1_body": "Ứng dụng công nghệ bản đồ số (GIS) là giải pháp tối ưu mà chúng tôi mang đến. Liệt kê đầy đủ, rõ ràng và chi tiết về mật độ cây xanh là điều quan trọng, có ý nghĩa sâu sắc trên nhiều vấn đề như quản lý và bảo vệ môi trường, ứng phó với khí hậu, thông tin cộng đồng.",
+    "carousel_2_header": "Cung cấp thông tin cây xanh",
+    "carousel_2_body": "Tại đây là cơ sở dữ liệu với đầy đủ thông tin chi tiết ((vi trị, chủng loại, tên gọi tên cây, tên khoa học, đường kính, chiều cao, năm trồng tuổi thọ cây, tuyến đường, hiện trạng sinh trưởng,...).",
+    "carousel_3_header": "Truyền tải thông tin quy hoạch đô thị",
+    "carousel_4_body": "Các dữ liệu số hóa cây xanh giúp quản lý, lập kế hoạch và định hình cụ thể mô hình phát triển đô thị, đảm bảo tích hợp và bền vững giữa không gian xanh và hạ tầng đô thị."
+  }
+}

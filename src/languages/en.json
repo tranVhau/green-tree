@@ -1,0 +1,32 @@
+{
+  "header-section": {
+    "home": "home",
+    "web-version": "web version",
+    "feature": "feature",
+    "guideline": "guildline",
+    "gallery": "gallery",
+    "contact": "contact"
+  },
+  "banner-section": {
+    "banner_1": "digitalization of can tho green trees",
+    "banner_2": "Welcome to the experience of a tree management platform for a green mission",
+    "banner_3": "discover now",
+    "banner_4": "discover the science of plant management",
+    "banner_5": "Not only a foundation, but also a companion in caring for and maintaining the sustainable green beauty of trees. Behind the delicate interface, you have all the tips, information, resources from experts to nurture and care for healthy plants."
+  },
+  "content-section": {
+    "content_1": "digitalization of green trees",
+    "content_2": "Establishing a database as an intellectual library, preserving the magnificent journey of urban trees. Starting from their names to vigorous growth, encompassing diameter, height, planting time, and lifespan – abundant other detailed information, transparent and clear, narrates the history of each tree. Leveraging GIS - the geographic information system, data comes to life, imprinting the passage of time along the green edges of the urban landscape.",
+    "content_3": "the database is continually updated, accurate and detailed, making management and monitoring of trees easier than ever",
+    "content_4": "highlight features",
+    "content_5": "Commitment and efforts for a green world in the era of infrastructure digitalization by bringing you a system of outstanding features"
+  },
+  "content-carousel": {
+    "carousel_1_header": "Statistics to monitor the density of trees",
+    "carousel_1_body": "Applying digital map technology (GIS) is the optimal solution that we bring. Listing fully, clearly and in detail the density of trees is important, with profound implications on many issues such as environmental management and protection, climate response, and community information.",
+    "carousel_2_header": "Provide information about green trees",
+    "carousel_2_body": "Here lies a treasure trove of data, brimming with comprehensive details (coordinates, species, common and scientific names, diameter, height, age at planting, lifespan, pathways, growth status, ...).",
+    "carousel_3_header": "Transmission of urban planning information",
+    "carousel_3_body": "The digitized data of green trees facilitate management, planning, and the concrete shaping of urban development models, ensuring the integration and sustainability between green spaces and urban infrastructure."
+  }
+}
